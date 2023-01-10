@@ -1,4 +1,0 @@
-com\example\handler\RemoteInvocationHandler.class
-com\example\service\RpcProxyClient.class
-com\example\Main.class
-com\example\RpcNetTransport.class
